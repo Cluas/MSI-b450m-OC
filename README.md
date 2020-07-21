@@ -1,10 +1,10 @@
 # MSI-b450m-OC
 ### EFI概述
 
-> 通过 [Dortania](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html) 
+> 通过 [Dortania](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html) 按步骤配置
 >
 
-Mac 版本：10.15.6
+MacOS 版本：10.15.6
 
 Opencore 版本：0.5.9
 
