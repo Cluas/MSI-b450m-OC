@@ -4,11 +4,11 @@
 > 通过 [Dortania](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html) 按步骤配置
 >
 
-MacOS 版本：10.15.6
+MacOS 版本：11.0.1 (20B29) Big Sur
 
-Opencore 版本：0.6.1
+Opencore 版本：0.6.3
 
-更新日期：2020-09-18
+更新日期：2020-11-25
 
 
 
@@ -18,7 +18,7 @@ Opencore 版本：0.6.1
 | ---- | ----------------- |
 | 主板 | 微星 B450m 迫击炮 |
 | CPU  | AMD R5 3600x      |
-| 显卡 | 蓝宝石 VEGA 56     |
+| 显卡 | 蓝宝石 VEGA 56    |
 
 
 

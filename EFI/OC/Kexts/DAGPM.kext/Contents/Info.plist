@@ -3,25 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>18A391012</string>
+	<string>14A100</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleGetInfoString</key>
-	<string>111.4.2, Copyright 2008-2019 Apple Inc. All rights reserved.</string>
+	<string>Copyright © 2014 Apple All rights reserved.</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.driver.AGPMInjector</string>
+	<string>com.apple.driver.toledaAGPM</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>AGPMInjector</string>
+	<string>toledaAGPM</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.2-AGPMInjector</string>
+	<string>2.0.0-toledaAGPM</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>111.4.2</string>
+	<string>1.0.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2014 Apple. All rights reserved.</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>AGPM</key>
@@ -36,31 +38,21 @@
 			<string>IOPlatformPluginDevice</string>
 			<key>Machines</key>
 			<dict>
-				<key>iMacPro1,1</key>
+				<key>Mac-7BA5B2D9E42DDD94</key>
 				<dict>
-					<key>Vendor1002Device687f</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
+					<key>GFX0</key>
+					<string></string>
+					<key>Vendor1002Device67DF</key>
+					<string></string>
+					<key>Vendor1002Device731F</key>
+					<string></string>
+					<key>Vendor1002Device7340</key>
+					<string></string>
 				</dict>
 			</dict>
 		</dict>
 	</dict>
-	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2008-2019 Apple Inc. All rights reserved.</string>
 	<key>OSBundleRequired</key>
-	<string>Safe Boot</string>
+	<string>Local-Root</string>
 </dict>
 </plist>
