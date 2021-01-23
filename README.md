@@ -4,11 +4,11 @@
 > 通过 [Dortania](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html) 按步骤配置
 >
 
-MacOS 版本：11.0.1 (20B29) Big Sur
+MacOS 版本：11.1 (20C69) Big Sur
 
-Opencore 版本：0.6.3
+Opencore 版本：0.6.5
 
-更新日期：2020-11-25
+更新日期：2021-01-23
 
 
 
