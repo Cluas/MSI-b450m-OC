@@ -1,4 +1,5 @@
 # MSI-b450m-OC
+(**已经出了入手mac mini m1 不再更新此项目**)
 ### EFI概述
 
 > 通过 [Dortania](https://dortania.github.io/OpenCore-Desktop-Guide/AMD/zen.html) 按步骤配置
